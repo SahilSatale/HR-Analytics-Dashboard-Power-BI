@@ -67,11 +67,3 @@ Examples include:
 - Delivered a leadership-ready dashboard for workforce decisions  
 
 ---
-
-## 📊 Dashboard Preview (Add Images Here)
-
-```md
-![HR Dashboard Overview](images/hr_dashboard_overview.png)
-![Attrition Insights](images/attrition_insights.png)
-![Performance Analysis](images/performance_analysis.png)
-![Age & Demographics](images/age_demographics.png)
